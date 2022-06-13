@@ -10,7 +10,8 @@ See [documentation](https://developer.apple.com/documentation/swift_packages/add
 
 ## How to Use
 
-First, create a menu according to `PMKMenu` protocotl as follows.
+First, import PageMenuKitSwiftUI to use this package.
+Then, create a menu according to the `PMKMenu` protocol as follows.
 
 ```swift
 enum MonthMenu: Int, PMKMenu
