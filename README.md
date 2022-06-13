@@ -359,3 +359,7 @@ init(_ menus: [Menu], style: PMKMenuStyle, selected: Menu, configuration: PMKCol
  - Swift 5 or later
  - iOS 15 or later
  - Xcode 13.4 or later
+
+## License
+
+This package is licensed under [BSD License](LICENSE)
